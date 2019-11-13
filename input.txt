@@ -1,0 +1,3 @@
+[sample code which inputs 2 single digit value and prints the sum as long as the 0 <= sum <= 9]
+
+,*>>,*[<+>-]<<[>+<-]>^.;
